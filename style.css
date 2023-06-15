@@ -1,0 +1,48 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+header {
+    display: flex;
+    justify-content: center;
+    background-color: gainsboro;
+    height: 80px;
+}
+.header-nav {
+    margin-top: 20px;
+}
+.header-nav a {
+    margin-right: 45px;
+    font-size: 20px;
+}
+.logo {
+    margin-right: 800px;
+    margin-top: 10px;
+}
+summary {
+    font-size: 25px;
+}
+main {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.info {
+    float: right;
+}
+.mediawiki {
+    float: right;
+    margin-right: 20px;
+}
+footer {
+    background-color: gainsboro;
+    height: 150px;
+    border-top: 1px solid grey;
+    padding: 30px 80px 30px 80px;
+}
+.footer-nav a{
+    margin-right: 20px;
+    font-size: 20px;
+}
+.privacy_policy {
+    margin-top: 50px;
+}
