@@ -31,7 +31,7 @@ main {
 }
 .mediawiki {
     float: right;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 footer {
     background-color: gainsboro;
@@ -40,7 +40,7 @@ footer {
     padding: 30px 80px 30px 80px;
 }
 .footer-nav a{
-    margin-right: 20px;
+    margin-right: 15px;
     font-size: 20px;
 }
 .privacy_policy {
