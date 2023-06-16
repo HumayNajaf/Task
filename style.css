@@ -23,11 +23,13 @@ summary {
     font-size: 25px;
 }
 main {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin: 0px 100px 0px 100px;
 }
-.info {
-    float: right;
+h1 {
+    text-align: center;
+}
+.content {
+    display: flex;
 }
 .mediawiki {
     float: right;
@@ -38,6 +40,7 @@ footer {
     height: 150px;
     border-top: 1px solid grey;
     padding: 30px 80px 30px 80px;
+    overflow: auto;
 }
 .footer-nav a{
     margin-right: 15px;
