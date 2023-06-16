@@ -1,6 +1,7 @@
 a {
     text-decoration: none;
     color: black;
+    font-weight: bold;
 }
 header {
     display: flex;
@@ -23,14 +24,16 @@ summary {
     font-size: 25px;
 }
 main {
+    display: flex ;
     margin-left: 100px;
     margin-right: 100px;
 }
 .info {
-    float: right;
+    border: 2px solid black;
+    padding: 5px 10px;
+    height: 20%;
 }
 .mediawiki {
-    float: right;
     margin-right: 20px;
 }
 footer {
@@ -45,4 +48,11 @@ footer {
 }
 .privacy_policy {
     margin-top: 50px;
+}
+/* roma */
+.person-life{
+    text-align: left;
+}
+.person-life th{
+    padding-right: 50px;
 }
